@@ -1,0 +1,9 @@
+{
+  "name": "@mwane/mwane-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@mwane",
+  "repository": "https://github.com/BakamaMwane/mwan.git",
+  "license": "ISC"
+}
